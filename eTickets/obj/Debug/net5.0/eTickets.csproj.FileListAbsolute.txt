@@ -1,0 +1,920 @@
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\appsettings.Development.json
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\appsettings.json
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.exe
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.deps.json
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.json
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.dev.json
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.Views.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.Views.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Humanizer.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.csproj.AssemblyReference.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.Manifest.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\scopedcss\bundle\eTickets.styles.css
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cache
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cs
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.pdb
+C:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\appsettings.json
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.exe
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.deps.json
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.json
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.dev.json
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.Views.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\eTickets.Views.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Humanizer.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.Manifest.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\scopedcss\bundle\eTickets.styles.css
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cache
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cs
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
+D:\những thứ cần học\complete-ecommerce-aspnet-mvc-application\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\appsettings.json
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.exe
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.deps.json
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.json
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.dev.json
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.Views.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.Views.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Humanizer.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.AssemblyReference.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.Manifest.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\scopedcss\bundle\eTickets.styles.css
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cache
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cs
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.pdb
+D:\file_LuyenTap\cv\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\appsettings.json
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.exe
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.deps.json
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.json
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.dev.json
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.pdb
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.Views.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.Views.pdb
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Humanizer.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.AssemblyReference.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.Manifest.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\scopedcss\bundle\eTickets.styles.css
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cache
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.dll
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.pdb
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\MailKit.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\MimeKit.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.StaticWebAssets.xml
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Information.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterLoading.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\SeachFilms\_partialTK_view.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmationFails.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ChangedPassword.cshtml.g.cs
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\PagedList.Core.dll
+D:\C#5\buy_movie_tickets\eTickets\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.StaticWebAssets.xml
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\appsettings.json
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.exe
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.deps.json
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.json
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.dev.json
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.Views.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\eTickets.Views.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\MailKit.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\PagedList.Core.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.AssemblyReference.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.Manifest.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\scopedcss\bundle\eTickets.styles.css
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ChangedPassword.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmationFails.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Information.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterLoading.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\SeachFilms\_partialTK_view.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cache
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cs
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.pdb
+C:\Users\Nguyen Bui\OneDrive\Máy tính\buy_movie_tickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\appsettings.Development.json
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.StaticWebAssets.xml
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\appsettings.json
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.exe
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.deps.json
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.json
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.runtimeconfig.dev.json
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.pdb
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.Views.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\eTickets.Views.pdb
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Humanizer.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\MailKit.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\MimeKit.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\PagedList.Core.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#4\buy_movie_tick1\eTickets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.csproj.AssemblyReference.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.Manifest.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\scopedcss\bundle\eTickets.styles.css
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\ChangedPassword.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmationFails.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\Information.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterLoading.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\SeachFilms\_partialTK_view.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cache
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.RazorTargetAssemblyInfo.cs
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.dll
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.pdb
+D:\C#4\buy_movie_tick1\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
